@@ -1,0 +1,4 @@
+vim Document.txt
+python3
+import os
+os.rename('Document.txt', 'Document')
